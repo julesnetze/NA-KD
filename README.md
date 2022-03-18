@@ -9,7 +9,7 @@ The project requires [.NET 5.0](https://dotnet.microsoft.com/en-us/download/dotn
 
 Tested on:
 
-- Visual Studio 2019 (17.1)
+- Visual Studio 2019
 
 ## Useful commands
 
