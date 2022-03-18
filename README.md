@@ -13,7 +13,7 @@ Tested on:
 
 ## Useful commands
 
-From the terminal/shell/command line tool, use the following commands to build, test and run the API.
+From the terminal/shell/command line tool, use the following commands to build, test and run the console application.
 
 ### Build the project
 
